@@ -13,6 +13,8 @@ public class EGit {
 		System.out.println("7777777");
 		System.out.println("星期四");
 		System.out.println("星期五");
+		System.out.println("星期三");
+		System.out.println("星期日");
 	}
 
 }
