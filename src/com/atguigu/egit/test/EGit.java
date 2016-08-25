@@ -15,6 +15,8 @@ public class EGit {
 		System.out.println("星期五");
 		System.out.println("星期一");
 		System.out.println("星期二");
+		System.out.println("星期三");
+		System.out.println("星期日");
 	}
 
 }
